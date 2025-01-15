@@ -1,4 +1,4 @@
-Here’s the updated README with all code blocks consolidated into a single **Copy Code** section:
+
 
 ```markdown
 # Java Calculator
@@ -73,6 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 - [Java Documentation](https://docs.oracle.com/en/java/)
 - [GitHub](https://github.com/) for hosting the repository.
-```
-
-This layout simplifies copying all the code snippets at once. Let me know if this works for you!
+  
